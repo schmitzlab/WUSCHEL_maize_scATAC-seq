@@ -26,3 +26,8 @@ Meme/: Scripts to discover and analyze motifs in ACRs using MEME suite tools.
 
 ## functions
 `functions` directory contains standalone R functions that are sourced by other scripts. 
+
+## Revision_GenomeBiology
+`Revision_GenomeBiology` directory contains the additional analysis & visualization scripts. They were added during revision in genome biology journal.
+The scripts are written in Rmd to make it easy to check figures and scripts together.
+
