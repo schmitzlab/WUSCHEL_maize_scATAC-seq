@@ -1,6 +1,6 @@
 # Overview of this repo
 The scrtips are for the [manuscript](https://www.biorxiv.org/content/10.1101/2024.05.13.593957v1) entitled "WUSCHEL-dependent chromatin regulation in maize inflorescence development at single-cell resolution".
-They can be used for more than two genotype comparisions in scATAC-seq data.
+They can be used for more than two genotype comparisions in scATAC-seq data. You can check the updated scripts here - https://github.com/sohyunbk/single_cell_genomics_wt_mutant_comparison.
 
 # Repository Structure 
 ## submission_scripts
